@@ -1,18 +1,7 @@
 server:
   port: 8080
+
 logging:
   level:
     root: INFO
     com.example: DEBUG
-
-tekton:
-  api:
-    url: "http://tekton-api:8080"
-  auth:
-    token: "your-tekton-api-token"
-
-jenkins:
-  api:
-    url: "http://jenkins-api:8080"
-  auth:
-    token: "your-jenkins-api-token"
