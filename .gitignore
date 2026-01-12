@@ -1,19 +1,6 @@
 target/
 *.class
 *.log
+*.temp
 *.tmp
-
-# IntelliJ IDEA
-.idea
-*.iml
-*.iws
-
-# Eclipse
-.project
-.classpath
-
-# MacOS
 .DS_Store
-
-# Maven
-.mvn
